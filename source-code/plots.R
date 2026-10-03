@@ -1,4 +1,4 @@
-# Jamali, Sumair
+
 
 # Question 0
 rm(list = ls())
